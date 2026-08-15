@@ -1,9 +1,5 @@
-# Malware detection using CNN
+# Malware Detection using CNN: Analysis and Frontend Design Plan
 
-## Objective / Problem Definition of the Project
+## Overview
 
-## **The main problem addressed by this project is the increasing difficulty of detecting malicious software, especially new and modified malware variants. Traditional signature-based detection methods depend on previously known malware patterns and may fail when malware is altered or previously unseen. Therefore, there is a need for an effective automated approach that can identify malicious software accurately and distinguish it from legitimate software.**
-
-## Dataset
-
-[Reference]
+This document provides a comprehensive analysis of the existing machine learning model (`main.ipynb`) and its corresponding dataset (`raw_pe_images.csv`). It also outlines a detailed design plan for building a frontend application that interacts with this model.
