@@ -1,5 +1,9 @@
-.venv
-.vscode
+.DS_Store
+__pycache__/
+*.pyc
+venv/
 .env
-venv
-Dataset/
+node_modules/
+dist/
+raw_pe_images.csv
+*.csv
