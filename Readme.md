@@ -16,4 +16,4 @@ The main problem addressed by this project is the increasing difficulty of detec
 
 ## Abstract
 
-This dataset is part of my PhD research on malware detection and classification using Deep Learning. It contains static analysis data: Raw PE byte stream rescaled to a 32 x 32 greyscale image using the Nearest Neighbor Interpolation algorithm and then flattened to a 1024 bytes vector. PE malware examples were downloaded from virusshare.com. PE goodware examples were downloaded from portableapps.com and from Windows 7 x86 directories.
+This dataset is part of my mtech research on malware detection and classification using Deep Learning. It contains static analysis data: Raw PE byte stream rescaled to a 32 x 32 greyscale image using the Nearest Neighbor Interpolation algorithm and then flattened to a 1024 bytes vector. PE malware examples were downloaded from virusshare.com. PE goodware examples were downloaded from portableapps.com and from Windows 7 x86 directories.
